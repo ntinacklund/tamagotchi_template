@@ -1,16 +1,20 @@
-# Projektmall
+# NTImagotchin
+
+Nyckelord: Datastrukturer, kontrollflöde, (grafik)
 
 ## Uppgiften
 
 ### Lydelse
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac tincidunt justo. Vivamus eget malesuada felis. Etiam euismod mollis lobortis. Etiam at pellentesque diam. Donec suscipit nulla arcu, consequat iaculis neque maximus non. Proin laoreet tortor nulla, in pharetra lorem laoreet id. Vestibulum condimentum, neque vel suscipit tempor, felis erat consectetur est, a bibendum metus enim et odio. Vivamus laoreet eu eros id efficitur. Nunc ac urna gravida, dignissim libero vel, pellentesque dui. Maecenas arcu enim, venenatis eu purus id, condimentum posuere lorem. Nunc pharetra, elit at convallis ultricies, nunc risus fermentum nisl, sit amet molestie nisl urna eu arcu. Nunc molestie elit ullamcorper nisl pharetra dignissim. Praesent pretium blandit ornare.
+En NTImagotchi är en liten krabat som man ska försöka göra så stor som möjligt. Detta görs genom att man tar hand om den och uppfyller dess behov. En NTImagotchi har fyra olika saker den vill göra. Den vill antingen plugga, gejma, examineras och sova.
 
-### Exempel
+Alla fyra saker uppfyller olika behov som krabaten har. Krabaten har skoj, sömnbehov och resultat. Om något av behoven når noll dör krabaten och du behöver skaffa en ny. Vilken sak den utför uppfyller det behov du själv listar ut. Plugga bör dock göra att när krabaten examineras så ökar den olika mycket. Eller så är examineras en särskild händelse som sker en gång varje cykel.
 
-Duis lobortis porta orci, et scelerisque diam ornare nec. Pellentesque eget suscipit ligula, et ultrices tortor. Ut congue, tellus in rutrum interdum, massa est convallis eros, at blandit quam augue vitae libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed nisi libero, pretium vel tincidunt mollis, accumsan at eros. Nunc eu congue ex, quis sodales enim. Aliquam a sem hendrerit, vehicula enim ut, maximus risus. Aenean ac lobortis justo. Aenean molestie vehicula dolor, at ullamcorper nisi eleifend a. Quisque egestas est vulputate, sagittis leo id, fermentum ante. Pellentesque cursus nulla nibh, id luctus diam laoreet in.
+Om du gör ditt program i terminalen kan du se allt som olika mätare (eller xp-bars om vi använder gaming-lingo). Gör du programmet grafiskt så kan du istället få din NTImagotchi att växa istället, beroende på hur den mår.
 
 ### Krav för olika betyg
+
+Uppgiften i grund är på en C-nivå, görs den grafiskt är den på A-nivå.
 
 ## Dokumentation & Planering
 
@@ -31,3 +35,7 @@ I första stadiet av projektet bör du även skissa upp ett flödesschema i för
 ## Författare
 
 Niclas Lund
+
+## Disclaimer
+
+Uppgiften (eller inspiration till den) är ärligt stulen från EECS-skolan (gamla CSC) och kursen DD1314.
